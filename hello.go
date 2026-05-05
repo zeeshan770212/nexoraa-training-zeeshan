@@ -4,6 +4,6 @@ import "fmt"
 
 func main() {
     // Initial Nexoraa greeting
-    // Added during PR review simulation
-    fmt.Println("Hello, Nexoraa!")
+    // PR auto-update demonstration
+    fmt.Println("Hello, World!")
 }
